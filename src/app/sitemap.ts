@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next'
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://rideflow.com'
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://test1-chi-lake.vercel.app/'
 
 async function getVehicleIds(): Promise<{ id: string; updatedAt?: string }[]> {
   try {
