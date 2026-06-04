@@ -22,13 +22,13 @@ export const metadata: Metadata = {
 
   openGraph: {
     type: 'website',
-    url: 'https://ride-flow-seo-6iej.vercel.app/og-homepage.jpg',
+    url: 'https://i.postimg.cc/Bnz1Y3jP/fleet.jpg',
     title: 'Browse All Vehicles — Filter by Type, Brand & Price | RideFlow',
     description:
       'Browse SUVs, sedans, electric cars, and luxury vehicles. Filter by type, fuel, price, and transmission. Pay securely with ETH via MetaMask.',
     images: [
       {
-        url: '/og-homepage.jpg', // 🔧 Create a 1200x630px fleet image for /public
+        url: 'https://i.postimg.cc/Bnz1Y3jP/fleet.jpg', // 🔧 Create a 1200x630px fleet image for /public
         width: 1200,
         height: 630,
         alt: 'RideFlow Fleet Catalog — Browse and Filter All Vehicles',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     title: 'Browse All Vehicles — Filter by Type, Brand & Price | RideFlow',
     description:
       'Filter SUVs, sedans, electric and luxury vehicles. Pay with ETH via MetaMask. Book instantly.',
-    images: ['/og-fleet.jpg'],
+    images: ['https://i.postimg.cc/Bnz1Y3jP/fleet.jpg'],
   },
 }
 
