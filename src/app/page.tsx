@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       'Blockchain-enabled vehicle rental and sales. Browse our full fleet, compare models side by side, and pay securely with ETH via MetaMask.',
     images: [
       {
-        url: 'https://ibb.co/wNR89cZc', // 🔧 Create a 1200x630px hero image for the homepage
+        url: 'https://i.postimg.cc/FKBzFVyR/home.jpg', // 🔧 Create a 1200x630px hero image for the homepage
         width: 1200,
         height: 630,
         alt: 'RideFlow — Browse, Rent & Buy Vehicles. Decentralized Rides, Seamless Flow.',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     title: 'RideFlow — Rent & Buy Vehicles. Pay with Crypto',
     description:
       'Browse SUVs, sedans, electric and luxury vehicles. Pay with ETH via MetaMask. Secure blockchain payment on every booking.',
-    images: ['https://ibb.co/wNR89cZc'],
+    images: ['https://i.postimg.cc/FKBzFVyR/home.jpg'],
   },
 }
 
