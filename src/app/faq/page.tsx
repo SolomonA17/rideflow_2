@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: 'FAQ — Rentals, Crypto Payments & Blockchain | RideFlow',
     description:
       'Answers about renting vehicles, paying with ETH, cancellations, and our blockchain payment system.',
-    images: ['/og-default.jpg'],
+    images: ['/og-homepage.jpg'],
   },
 }
 

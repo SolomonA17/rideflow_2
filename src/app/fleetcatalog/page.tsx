@@ -28,7 +28,7 @@ export const metadata: Metadata = {
       'Browse SUVs, sedans, electric cars, and luxury vehicles. Filter by type, fuel, price, and transmission. Pay securely with ETH via MetaMask.',
     images: [
       {
-        url: '/og-fleet.jpg', // 🔧 Create a 1200x630px fleet image for /public
+        url: '/og-homepage.jpg', // 🔧 Create a 1200x630px fleet image for /public
         width: 1200,
         height: 630,
         alt: 'RideFlow Fleet Catalog — Browse and Filter All Vehicles',

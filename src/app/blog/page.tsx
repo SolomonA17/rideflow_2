@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     title: 'RideFlow Blog — Rental Guides & Crypto Payment Tips',
     description:
       'How to rent with crypto, MetaMask guides, vehicle comparisons, and Web3 payment explainers.',
-    images: ['/og-blog.jpg'],
+    images: ['/og-homepage.jpg'],
   },
 }
 
