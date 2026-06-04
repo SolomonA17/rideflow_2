@@ -25,7 +25,7 @@ export const metadata: Metadata = {
       'Guides on renting vehicles, paying with ETH via MetaMask, comparing cars, and understanding blockchain payments. Read the RideFlow blog.',
     images: [
       {
-        url: 'https://ride-flow-seo-6iej.vercel.app/og-homepage.jpg', // 🔧 Create a 1200x630px blog OG image in /public
+        url: 'https://test1-chi-lake.vercel.app/og-homepage.jpg', // 🔧 Create a 1200x630px blog OG image in /public
         width: 1200,
         height: 630,
         alt: 'RideFlow Blog — Vehicle Rental & Crypto Payment Guides',

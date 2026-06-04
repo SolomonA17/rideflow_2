@@ -26,7 +26,7 @@ export const metadata: Metadata = {
       'Everything you need to know about renting and buying vehicles on RideFlow — including crypto payments, cancellation policy, and how to get started.',
     images: [
       {
-        url: 'https://ride-flow-seo-6iej.vercel.app/og-homepage.jpg',
+        url: 'https://test1-chi-lake.vercel.app/og-homepage.jpg',
         width: 1200,
         height: 630,
         alt: 'RideFlow FAQ — Vehicle Rental & Blockchain Payment Questions',
