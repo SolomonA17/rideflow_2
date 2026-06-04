@@ -25,7 +25,7 @@ export const metadata: Metadata = {
       'Guides on renting vehicles, paying with ETH via MetaMask, comparing cars, and understanding blockchain payments. Read the RideFlow blog.',
     images: [
       {
-        url: 'https://postimg.cc/JDXjzTnB', // 🔧 Create a 1200x630px blog OG image in /public
+        url: 'https://i.postimg.cc/FRWpG8XG/blog.jpg', // 🔧 Create a 1200x630px blog OG image in /public
         width: 1200,
         height: 630,
         alt: 'RideFlow Blog — Vehicle Rental & Crypto Payment Guides',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     title: 'RideFlow Blog — Rental Guides & Crypto Payment Tips',
     description:
       'How to rent with crypto, MetaMask guides, vehicle comparisons, and Web3 payment explainers.',
-    images: ['https://postimg.cc/JDXjzTnB'],
+    images: ['https://i.postimg.cc/FRWpG8XG/blog.jpg'],
   },
 }
 
