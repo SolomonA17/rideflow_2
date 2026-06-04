@@ -74,7 +74,7 @@ export const metadata: Metadata = {
       'Blockchain-enabled vehicle rental and sales. Browse our full fleet, compare models, and pay with ETH via MetaMask. Book in under 3 minutes.',
     images: [
       {
-        url: 'https://test1-chi-lake.vercel.app/og-homepage.jpg',
+        url: 'https://i.postimg.cc/tCx0ZthT/og-homepage.jpg',
         width: 1200,
         height: 630,
         alt: 'RideFlow — Decentralized Rides, Seamless Flow',
@@ -91,7 +91,7 @@ export const metadata: Metadata = {
     title: `${SITE_NAME} — Rent & Buy Vehicles. Pay with Crypto`,
     description:
       'Browse SUVs, sedans, electric and luxury vehicles. Pay with ETH via MetaMask. Secure blockchain payments.',
-    images: ['/og-homepage.jpg'],
+    images: ['https://i.postimg.cc/tCx0ZthT/og-homepage.jpg'],
   },
 
   // ── Icons ─────────────────────────────────────────────────────────────────
