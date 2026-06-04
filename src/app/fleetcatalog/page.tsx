@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     type: 'website',
-    url: 'https://test1-chi-lake.vercel.app/og-homepage.jpg',
+    url: 'https://ride-flow-seo-6iej.vercel.app/og-homepage.jpg',
     title: 'Browse All Vehicles — Filter by Type, Brand & Price | RideFlow',
     description:
       'Browse SUVs, sedans, electric cars, and luxury vehicles. Filter by type, fuel, price, and transmission. Pay securely with ETH via MetaMask.',
